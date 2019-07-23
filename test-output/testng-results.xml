@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="68606" started-at="2019-07-17T10:18:23Z" finished-at="2019-07-17T10:19:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="68606" started-at="2019-07-17T10:18:23Z" finished-at="2019-07-17T10:19:32Z">
+      <class name="TestMePackage1.OnlineShoppingTest">
+        <test-method status="PASS" signature="startReportBeforeTest()[pri:0, instance:TestMePackage1.OnlineShoppingTest@5c3bd550]" name="startReportBeforeTest" is-config="true" duration-ms="423" started-at="2019-07-17T10:18:23Z" finished-at="2019-07-17T10:18:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReportBeforeTest -->
+        <test-method status="PASS" signature="OpenChrome()[pri:0, instance:TestMePackage1.OnlineShoppingTest@5c3bd550]" name="OpenChrome" duration-ms="26744" started-at="2019-07-17T10:18:24Z" finished-at="2019-07-17T10:18:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenChrome -->
+        <test-method status="PASS" signature="testRegistration()[pri:1, instance:TestMePackage1.OnlineShoppingTest@5c3bd550]" name="testRegistration" duration-ms="11519" started-at="2019-07-17T10:18:50Z" finished-at="2019-07-17T10:19:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistration -->
+        <test-method status="PASS" signature="testLogin()[pri:2, instance:TestMePackage1.OnlineShoppingTest@5c3bd550]" name="testLogin" duration-ms="6196" started-at="2019-07-17T10:19:02Z" finished-at="2019-07-17T10:19:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="testCart()[pri:3, instance:TestMePackage1.OnlineShoppingTest@5c3bd550]" name="testCart" duration-ms="5590" started-at="2019-07-17T10:19:08Z" finished-at="2019-07-17T10:19:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCart -->
+        <test-method status="PASS" signature="testPayment()[pri:4, instance:TestMePackage1.OnlineShoppingTest@5c3bd550]" name="testPayment" duration-ms="17700" started-at="2019-07-17T10:19:14Z" finished-at="2019-07-17T10:19:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPayment -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestMePackage1.OnlineShoppingTest@5c3bd550]" name="afterTest" is-config="true" duration-ms="384" started-at="2019-07-17T10:19:31Z" finished-at="2019-07-17T10:19:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestMePackage1.OnlineShoppingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
